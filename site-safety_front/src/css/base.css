@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: white !important;
+    padding: 0;
+}
+
+.navbar {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 50px;
+}
+
+svg {
+    vertical-align: baseline;
+}
+
+.footer {
+    text-align: center;
+}
+
+.basic-layout {
+    min-height: 100vh !important;
+}
+
+.card-container {
+    margin: 20px;
+}
+
+.ant-tabs-top > .ant-tabs-nav,
+.ant-tabs-bottom > .ant-tabs-nav,
+.ant-tabs-top > div > .ant-tabs-nav,
+.ant-tabs-bottom > div > .ant-tabs-nav {
+    margin: 0 !important;
+}
