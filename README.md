@@ -13,7 +13,9 @@
 - **Instant Alerts:** Provides real-time alerts when safety violations are detected.
 - **Detailed Timeline:** Displays a timeline with images and timestamps of detected violations.
 - **Interactive Video Controls:** Allows users to click on detected events to seek directly to the corresponding time in the video.
-- **Expanded Detection Capabilities:** The YOLOv8 model is not limited to detecting people and safety helmets; it can also recognize masks, safety vests, safety cones, machinery (e.g., excavators), and vehicles.
+- **Expanded Detection Capabilities:** The YOLOv8 model is not limited to detecting people and safety helmets; it can also recognize masks😷, safety vests🦺, safety cones🚧, machinery🚜(e.g., excavators), and vehicles🚗.
+
+## Folder Structure
 
 ## Installation
 
