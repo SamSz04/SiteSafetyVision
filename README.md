@@ -2,7 +2,7 @@
 
 ## Description
 
-SiteSafetyVision is a real-time video analysis tool designed to enhance safety compliance on construction sites. It utilizes advanced machine learning models(based on YOLOv8) to detect workers not wearing safety helmets and provides instant alerts to ensure workplace safety. The system is capable of analyzing live video streams, identifying potential safety violations, and documenting them with timestamps and images.
+SiteSafetyVision is a real-time video analysis tool designed to enhance safety compliance on construction sites. It utilizes advanced machine learning models (based on YOLOv8) to detect workers not wearing safety helmets and provides instant alerts to ensure workplace safety. The system is capable of analyzing live video streams, identifying potential safety violations, and documenting them with timestamps and images.
 
 
 
