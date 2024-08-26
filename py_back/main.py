@@ -22,6 +22,20 @@ app.add_middleware(
 # 加载训练好的模型
 model = YOLO('best.pt').to('cuda')
 
+# class names
+# names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+# Hardhat - 安全帽
+# Mask - 口罩
+# NO-Hardhat - 无安全帽
+# NO-Mask - 无口罩
+# NO-Safety Vest - 无安全背心
+# Person - 人
+# Safety Cone - 安全锥
+# Safety Vest - 安全背心
+# machinery - 机械（挖掘机）
+# vehicle - 车辆
+# names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone, Safety Vest, machinery, vehicle]
+
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
