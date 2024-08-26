@@ -1,4 +1,4 @@
-# SiteSafetyVision
+# 🏗️SiteSafetyVision⛑️
 
 ## Description
 
@@ -12,6 +12,7 @@
 - **Helmet Detection:** Accurately identifies workers who are not wearing safety helmets.
 - **Instant Alerts:** Provides real-time alerts when safety violations are detected.
 - **Detailed Timeline:** Displays a timeline with images and timestamps of detected violations.
+- **Interactive Video Controls:** Allows users to click on detected events to seek directly to the corresponding time in the video.
 - **Interactive Video Controls:** Allows users to click on detected events to seek directly to the corresponding time in the video.
 
 ## Installation
