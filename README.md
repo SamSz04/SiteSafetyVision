@@ -16,6 +16,14 @@
 - **Expanded Detection Capabilities:** The YOLOv8 model is not limited to detecting people and safety helmets; it can also recognize masks😷, safety vests🦺, safety cones🚧, machinery🚜(e.g., excavators), and vehicles🚗.
 
 ## Folder Structure
+```
+.
+├───images
+├───py_back
+├───site-safety_back
+├───site-safety_front
+└───README.md
+```
 
 ## Installation
 
