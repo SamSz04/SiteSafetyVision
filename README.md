@@ -30,7 +30,7 @@
 1. Clone the repository:
 
 	```bash
-	git clone https://github.com/yourusername/SiteSafetyVision.git
+	git clone git@github.com:SamSz04/SiteSafetyVision.git
 	```
 
 2. Navigate to the project directory:
